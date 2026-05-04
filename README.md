@@ -1,4 +1,4 @@
-# Machine Learning Assignment
+# Machine Learning 
 
 This repository contains solutions for multiple machine learning tasks.
 
